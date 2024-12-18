@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "ultrasonic.h": "c",
+    "stdio.h": "c",
+    "binary_info.h": "c",
+    "mpu6050.h": "c",
+    "motor_driver.h": "c",
+    "tcp_client.h": "c",
+    "tcp.h": "c",
+    "cyw43_arch.h": "c"
+  }
+}

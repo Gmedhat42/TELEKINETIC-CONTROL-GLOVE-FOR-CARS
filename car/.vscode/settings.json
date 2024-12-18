@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "ultrasonic.h": "c",
+    "stdio.h": "c",
+    "binary_info.h": "c",
+    "mpu6050.h": "c",
+    "motor_driver.h": "c",
+    "compare": "c",
+    "cstdint": "c"
+  }
+}
